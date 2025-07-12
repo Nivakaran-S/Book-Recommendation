@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+python-dotenv
+ipykernel
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+transformers
+gradio
+sentence-transformers
+langchain_huggingface
